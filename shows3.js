@@ -1,4 +1,4 @@
-var shows = [{
+var shows = {
     "/category/air-tv" : {
         "animeHash" : {
             "animeEps" : {
